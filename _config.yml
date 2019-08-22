@@ -10,13 +10,13 @@ disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: UA-49980823-11
 
 
 # Author
 author:
-  name: 'Daniel Bennett'
-  image: 'authorimage.jpg'
+  name: 'Krishna Nallamilli'
+  image: 'krishna_profile.JPG'
   greetings: 'Hi there!'
   description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
   bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
