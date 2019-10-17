@@ -2,7 +2,8 @@
 name: 'Horace'
 description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
-logo: 'assets/images/logo.png'
+#logo: 'assets/images/logo.png'
+logo: 'assets/images/signature_logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /
 production_url: https://nkdeepak.me
@@ -29,7 +30,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Social links
 twitter: 'krisnallamilli'
 #facebook: 'username'
-github: 'username'
+github: 'krishna-kimo'
 #codepen: 'username'
 #dribbble: 'username'
 medium: '@krishna.n'
